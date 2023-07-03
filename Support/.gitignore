@@ -1,0 +1,11 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/

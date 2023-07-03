@@ -1,0 +1,16 @@
+{
+  "language": {
+    "feature": "en-US"
+  },
+  "bindingCulture": {
+    "language": "en-US"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "NordPassHomeWorkTAF"
+    }
+  ],
+  "unitTestProvider": {
+    "name": "NUnit"
+  }
+}
