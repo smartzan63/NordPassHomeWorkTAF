@@ -1,5 +1,5 @@
 
-# NordPassHomeWorkTAF
+# SampleTAF
  
 ## How to install
  This project is a .NET 6.0 application, so you'll need to have .NET 6.0 SDK installed on your machine. 
