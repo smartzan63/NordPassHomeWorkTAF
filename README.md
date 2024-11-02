@@ -1,5 +1,7 @@
 
 # SampleTAF
+
+This Project was originally created as Homework challenge for my interview into Nord Security, so I decided to leave it as it is just to showcase my skills in automation on .Net
  
 ## How to install
  This project is a .NET 6.0 application, so you'll need to have .NET 6.0 SDK installed on your machine. 
